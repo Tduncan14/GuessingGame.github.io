@@ -1,0 +1,13 @@
+
+body{
+    background:url("smashbros.jpg");
+ }
+
+ #container {
+     margin-right:auto;
+     margin-left:auto;
+     margin-top: 250px;
+     width:960px;
+     text-align:center;
+     color:white;
+ }
